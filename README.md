@@ -13,7 +13,7 @@ The `Database setup` folder contains the original microdata files and R code nec
 
 | ***Folder***| ***Description*** |
 |-----|-----|
-| `Expenditure imputation` |Code and output results for statistical survey matching between POF and PNAD (abandoned)|
+| `Expenditure imputation` |Code and output results for statistical survey matching between POF and PNAD (dormant)|
 | `Old PNAD data` |.RDS microdata for PNAD (2008-2015)|
 | `POF data` |.RDS microdata for POF (2008-2009 and 2017-2018), along with translators and crosswalks|
 | `Database setup` files |R code used to build the microdata input files (.txt) in the `Input` folder above|
