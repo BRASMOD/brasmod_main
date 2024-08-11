@@ -1,6 +1,6 @@
 # BRASMOD    
 <div style="text-align: justify;">
-BRASMOD is the first large-scale, open-access, tax-benefit microsimulation model for Brazil. Built within the EUROMOD software, our model encompasses the complete federal structure of taxes and benefits from 2008 to 2023, including the COVID-related benefits.
+BRASMOD is the first large-scale, open-access, tax-benefit microsimulation model for Brazil. Built within the EUROMOD software, our model encompasses the complete federal structure of taxes and benefits from 2008 to 2023.
 </div>
 
 ## Citation
@@ -11,7 +11,7 @@ The preliminary results of BRASMOD and all the choices involved with developing 
 
 ## Code
 <div style="text-align: justify;">
-All our data and code are hosted on GitHub. Click the link above to access our repository, where you can fork or download all the files related to this project. This repository contains the files and data necessary to run the BRASMOD microsimulation model. It follows the EUROMOD folder structure with the following folders:
+All our data and code are hosted on GitHub. Click the link above to access our repository, where you can fork or download the files related to this project. This repository contains all the files necessary to run the BRASMOD microsimulation model. 
  </div>
 
 ## EUROMOD platform 
