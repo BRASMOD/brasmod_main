@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<EMConfig>
+  <ERRLOG_FILE>c:\users\lauro\documents\github\definitivo\brasmod\brasmod_main\brasmod_v1.0\output\202410091755_errlog.txt</ERRLOG_FILE>
+  <LOG_WARNINGS>yes</LOG_WARNINGS>
+  <EMVERSION>brasmod_v1.0</EMVERSION>
+  <UIVERSION>3.6.19</UIVERSION>
+  <PARAMPATH>c:\users\lauro\documents\github\definitivo\brasmod\brasmod_main\brasmod_v1.0\XMLParam\Countries\BR\</PARAMPATH>
+  <CONFIGPATH>c:\users\lauro\documents\github\definitivo\brasmod\brasmod_main\brasmod_v1.0\XMLParam\Config\</CONFIGPATH>
+  <OUTPUTPATH>c:\users\lauro\documents\github\definitivo\brasmod\brasmod_main\brasmod_v1.0\output\</OUTPUTPATH>
+  <DATAPATH>c:\users\lauro\documents\github\definitivo\brasmod\brasmod_main\brasmod_v1.0\input\</DATAPATH>
+  <EMCONTENTPATH>c:\users\lauro\documents\github\definitivo\brasmod\brasmod_main\brasmod_v1.0\</EMCONTENTPATH>
+  <HEADER_DATE>202410091755</HEADER_DATE>
+  <OUTFILE_DATE>-</OUTFILE_DATE>
+  <LOG_RUNTIME>no</LOG_RUNTIME>
+  <DECSIGN_PARAM>.</DECSIGN_PARAM>
+  <STARTHH>-1</STARTHH>
+  <LASTHH>-1</LASTHH>
+  <COUNTRY_FILE>BR.xml</COUNTRY_FILE>
+  <DATACONFIG_FILE>BR_DataConfig.xml</DATACONFIG_FILE>
+  <DATASET_ID>06c0eb66-c024-4a78-a083-83a8fc326a1e</DATASET_ID>
+  <SYSTEM_ID>5a4252a9-3d60-43fa-ba5b-f7af51c84804</SYSTEM_ID>
+  <LAST_RUN>yes</LAST_RUN>
+</EMConfig>
