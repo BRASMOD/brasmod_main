@@ -18615,6 +18615,165 @@
       <BestMatch>yes</BestMatch>
     </DBSystemConfig>
   </DataBase>
+  <DataBase>
+    <ID>e9567f3f-c870-4c60-b71e-92e0c8457938</ID>
+    <Name>BR_2023_a1</Name>
+    <Comment><![CDATA[]]></Comment>
+    <YearCollection>2023</YearCollection>
+    <YearInc>2023</YearInc>
+    <Currency>national</Currency>
+    <FilePath />
+    <DecimalSign>.</DecimalSign>
+    <Private>no</Private>
+    <UseCommonDefault>no</UseCommonDefault>
+    <ReadXVariables>no</ReadXVariables>
+    <ListStringOutVar />
+    <CoicopVersion />
+    <DBSystemConfig>
+      <SystemID>09164bee-9950-457a-b269-1463980f294e</SystemID>
+      <SystemName>BRA_2008</SystemName>
+      <DataBaseID>e9567f3f-c870-4c60-b71e-92e0c8457938</DataBaseID>
+      <UseDefault />
+      <UseCommonDefault>no</UseCommonDefault>
+      <Uprate />
+      <BestMatch>no</BestMatch>
+    </DBSystemConfig>
+    <DBSystemConfig>
+      <SystemID>63f8ee1b-47b1-4872-ae2c-b470bc5a272b</SystemID>
+      <SystemName>BRA_2009</SystemName>
+      <DataBaseID>e9567f3f-c870-4c60-b71e-92e0c8457938</DataBaseID>
+      <UseDefault />
+      <UseCommonDefault>no</UseCommonDefault>
+      <Uprate />
+      <BestMatch>no</BestMatch>
+    </DBSystemConfig>
+    <DBSystemConfig>
+      <SystemID>576d496f-b209-4ea4-b0eb-9cad036bbee2</SystemID>
+      <SystemName>BRA_2010</SystemName>
+      <DataBaseID>e9567f3f-c870-4c60-b71e-92e0c8457938</DataBaseID>
+      <UseDefault />
+      <UseCommonDefault>no</UseCommonDefault>
+      <Uprate />
+      <BestMatch>no</BestMatch>
+    </DBSystemConfig>
+    <DBSystemConfig>
+      <SystemID>747074c0-e6cd-47eb-af41-946c5d3ded9e</SystemID>
+      <SystemName>BRA_2011</SystemName>
+      <DataBaseID>e9567f3f-c870-4c60-b71e-92e0c8457938</DataBaseID>
+      <UseDefault />
+      <UseCommonDefault>no</UseCommonDefault>
+      <Uprate />
+      <BestMatch>no</BestMatch>
+    </DBSystemConfig>
+    <DBSystemConfig>
+      <SystemID>d98e26e7-20d3-444a-b28e-e464182c91ed</SystemID>
+      <SystemName>BRA_2012</SystemName>
+      <DataBaseID>e9567f3f-c870-4c60-b71e-92e0c8457938</DataBaseID>
+      <UseDefault />
+      <UseCommonDefault>no</UseCommonDefault>
+      <Uprate />
+      <BestMatch>no</BestMatch>
+    </DBSystemConfig>
+    <DBSystemConfig>
+      <SystemID>558ac7dc-ffbd-4ae2-a8da-1ffaa1b01804</SystemID>
+      <SystemName>BRA_2013</SystemName>
+      <DataBaseID>e9567f3f-c870-4c60-b71e-92e0c8457938</DataBaseID>
+      <UseDefault />
+      <UseCommonDefault>no</UseCommonDefault>
+      <Uprate />
+      <BestMatch>no</BestMatch>
+    </DBSystemConfig>
+    <DBSystemConfig>
+      <SystemID>8a8011d9-def7-4c18-ad2d-c01ab4803051</SystemID>
+      <SystemName>BRA_2014</SystemName>
+      <DataBaseID>e9567f3f-c870-4c60-b71e-92e0c8457938</DataBaseID>
+      <UseDefault />
+      <UseCommonDefault>no</UseCommonDefault>
+      <Uprate />
+      <BestMatch>no</BestMatch>
+    </DBSystemConfig>
+    <DBSystemConfig>
+      <SystemID>4aca301d-ac1a-4cd5-b6d3-3043d4074d1d</SystemID>
+      <SystemName>BRA_2015</SystemName>
+      <DataBaseID>e9567f3f-c870-4c60-b71e-92e0c8457938</DataBaseID>
+      <UseDefault />
+      <UseCommonDefault>no</UseCommonDefault>
+      <Uprate />
+      <BestMatch>no</BestMatch>
+    </DBSystemConfig>
+    <DBSystemConfig>
+      <SystemID>b2ae5125-eac0-4ef2-b138-7e017ca9d44f</SystemID>
+      <SystemName>BRA_2016</SystemName>
+      <DataBaseID>e9567f3f-c870-4c60-b71e-92e0c8457938</DataBaseID>
+      <UseDefault />
+      <UseCommonDefault>no</UseCommonDefault>
+      <Uprate />
+      <BestMatch>no</BestMatch>
+    </DBSystemConfig>
+    <DBSystemConfig>
+      <SystemID>6a42a6bb-16d6-4e28-a9bc-daa6422aa82f</SystemID>
+      <SystemName>BRA_2017</SystemName>
+      <DataBaseID>e9567f3f-c870-4c60-b71e-92e0c8457938</DataBaseID>
+      <UseDefault />
+      <UseCommonDefault>no</UseCommonDefault>
+      <Uprate />
+      <BestMatch>no</BestMatch>
+    </DBSystemConfig>
+    <DBSystemConfig>
+      <SystemID>5a4252a9-3d60-43fa-ba5b-f7af51c84804</SystemID>
+      <SystemName>BRA_2018</SystemName>
+      <DataBaseID>e9567f3f-c870-4c60-b71e-92e0c8457938</DataBaseID>
+      <UseDefault />
+      <UseCommonDefault>no</UseCommonDefault>
+      <Uprate />
+      <BestMatch>no</BestMatch>
+    </DBSystemConfig>
+    <DBSystemConfig>
+      <SystemID>36e57ca2-6fbb-4a70-b4bb-9d4364c581ee</SystemID>
+      <SystemName>BRA_2019</SystemName>
+      <DataBaseID>e9567f3f-c870-4c60-b71e-92e0c8457938</DataBaseID>
+      <UseDefault />
+      <UseCommonDefault>no</UseCommonDefault>
+      <Uprate />
+      <BestMatch>no</BestMatch>
+    </DBSystemConfig>
+    <DBSystemConfig>
+      <SystemID>eb153b45-0257-4ea6-ad81-99ccfc0cdd92</SystemID>
+      <SystemName>BRA_2020</SystemName>
+      <DataBaseID>e9567f3f-c870-4c60-b71e-92e0c8457938</DataBaseID>
+      <UseDefault />
+      <UseCommonDefault>no</UseCommonDefault>
+      <Uprate />
+      <BestMatch>no</BestMatch>
+    </DBSystemConfig>
+    <DBSystemConfig>
+      <SystemID>c68327ba-228f-40a5-9cf0-5194c4d7ac41</SystemID>
+      <SystemName>BRA_2021</SystemName>
+      <DataBaseID>e9567f3f-c870-4c60-b71e-92e0c8457938</DataBaseID>
+      <UseDefault />
+      <UseCommonDefault>no</UseCommonDefault>
+      <Uprate />
+      <BestMatch>no</BestMatch>
+    </DBSystemConfig>
+    <DBSystemConfig>
+      <SystemID>a7a7627a-6c4e-4619-926b-6a7a0469ffd8</SystemID>
+      <SystemName>BRA_2022</SystemName>
+      <DataBaseID>e9567f3f-c870-4c60-b71e-92e0c8457938</DataBaseID>
+      <UseDefault />
+      <UseCommonDefault>no</UseCommonDefault>
+      <Uprate />
+      <BestMatch>no</BestMatch>
+    </DBSystemConfig>
+    <DBSystemConfig>
+      <SystemID>70bd2373-332d-4cbe-8616-ca00b7d84fa2</SystemID>
+      <SystemName>BRA_2023</SystemName>
+      <DataBaseID>e9567f3f-c870-4c60-b71e-92e0c8457938</DataBaseID>
+      <UseDefault />
+      <UseCommonDefault>no</UseCommonDefault>
+      <Uprate />
+      <BestMatch>yes</BestMatch>
+    </DBSystemConfig>
+  </DataBase>
   <PolicySwitch>
     <SwitchablePolicyID>8b258cd1-804e-4c9d-adc2-2d3e609c162a</SwitchablePolicyID>
     <SystemID>13009d10-169c-4a4c-82ed-0dbb780a70eb</SystemID>
