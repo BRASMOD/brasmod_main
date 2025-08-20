@@ -18,6 +18,8 @@ The `Database setup` folder contains the original microdata files and R code nec
 | `POF data` |.RDS microdata for POF (2008-2009 and 2017-2018), along with translators and crosswalks|
 | `Database setup` files |R code used to build the microdata input files (.txt) in the `Input` folder above|
 
+The `assets/reports` folder stores the Country Report that accompanies the model. 
+
 The `docs` folder just sets up the project website. 
 
 **You can access the project website [here](https://brasmod.github.io/brasmod_main/).** 
