@@ -6,7 +6,8 @@ BRASMOD is the first large-scale, open-access, tax-benefit microsimulation model
 ## Citation
 <div style="text-align: justify;">
 The preliminary results of BRASMOD and all the choices involved with developing the model are reunited in the Country Report, an obligatory document for EUROMOD-based models. You can download our Country Report (PDF)
-<a href="{{ '/assets/reports/BRASMODv1.0_Country_Report_2024.pdf' | relative_url }}" target="_blank" rel="noopener">here</a>. Moreover, you may cite our Country Report when using BRASMOD:
+<a href="https://raw.githubusercontent.com/brasmod/brasmod_main/main/assets/reports/BRASMODv1.0_Country_Report_2024.pdf"
+   target="_blank" rel="noopener">here</a>. Moreover, you may cite our Country Report when using BRASMOD:
 </div>
 > Bottega A., Cabral-Perez J.F., Forquesato P., Rocha F., Santos, H. (2024). BRASMOD v1.0 Country Report -- Brazil 2008-2023. 
 
